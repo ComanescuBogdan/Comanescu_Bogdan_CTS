@@ -8,6 +8,8 @@ public class main {
         InstitutiePublica pompieri = InstitutiePublica.getInstitutie("Pompieri");
         InstitutiePublica politieLocala=  InstitutiePublica.getInstitutieOptimizata("Politie");
 
+
+
         politie.setNumarAngajati(10);
         politieLocala.setNumarAngajati(20);
         pompieri.setNumarAngajati(5);
